@@ -22,4 +22,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/7th-Realm-Labs/LeetSolutions/tree/master/0002-add-two-numbers) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/7th-Realm-Labs/LeetSolutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
