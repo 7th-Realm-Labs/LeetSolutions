@@ -1,22 +1,19 @@
 class Solution(object):
     def isPalindrome(self, x):
         """
-        Determine whether an integer is a palindrome.
-
-        Args:
-            x (int): The integer to test.
-
-        Returns:
-            bool: True if x reads the same forward and backward, False otherwise.
+        :type x: int
+        :rtype: bool
         """
-        # 1) Early exit: negative numbers can’t be palindromes
-        #    because of the leading '-' sign.
-        if x < 0:
+        # Quick reject for negatives and any number ending in zero (except 0 itself)
+        if x < 0 or (x % 10 == 0 and x != 0):
             return False
 
-        # 2) Convert to string so we can reverse it easily.
-        s = str(x)
+        original = x
+        reversed_num = 0
 
-        # 3) Check equality with its reverse.
-        #    s[::-1] returns the string from end → start.
-        return s == s[::-1]
+        # Build the full reversed integer
+        while x:
+            reversed_num = reversed_num * 10 + (x % 10)
+            x //= 10
+
+        return reversed_num == original
