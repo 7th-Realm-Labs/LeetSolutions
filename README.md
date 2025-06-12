@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/7th-Realm-Labs/LeetSolutions/tree/master/0001-two-sum) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/7th-Realm-Labs/LeetSolutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
