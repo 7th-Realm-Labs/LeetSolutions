@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/7th-Realm-Labs/LeetSolutions/tree/master/0001-two-sum) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/7th-Realm-Labs/LeetSolutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
 |  |
 | ------- |
@@ -28,4 +29,12 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/7th-Realm-Labs/LeetSolutions/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/7th-Realm-Labs/LeetSolutions/tree/master/0176-second-highest-salary) |
+## String
+|  |
+| ------- |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/7th-Realm-Labs/LeetSolutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+## Counting
+|  |
+| ------- |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/7th-Realm-Labs/LeetSolutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 <!---LeetCode Topics End-->
